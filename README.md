@@ -51,6 +51,7 @@ An elegant and feature-rich web application for managing an online bookstore. Bu
 
 ## **🜄 Screenshots**
 
+
 ### **Home Page:**
 
 
